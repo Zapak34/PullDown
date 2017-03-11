@@ -7,4 +7,7 @@ package com.iodesiigners.pulldown;
 public class TestNewFile {
   private void FromGitHub(){
   }
+  
+  private void HELLO(){
+  }
 }
