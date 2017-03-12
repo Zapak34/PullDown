@@ -8,4 +8,8 @@ public class TestNewFile {
   private void FromGitHub(){
   }
 
+  private void Nice(){
+
+  }
+
 }
