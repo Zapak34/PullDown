@@ -9,7 +9,7 @@ public class TestNewFile {
   }
 
   private void Nice(){
-
+    //NICE SHOULD DO ALL THE COOL STUFF HERE
   }
 
 }
