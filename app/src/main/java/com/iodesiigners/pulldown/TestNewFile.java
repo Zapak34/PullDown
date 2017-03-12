@@ -7,7 +7,9 @@ package com.iodesiigners.pulldown;
 public class TestNewFile {
   private void FromGitHub(){
   }
-  
-  private void HELLO(){
+
+  private void Nice(){
+    //NICE SHOULD DO ALL THE COOL STUFF HERE
   }
+
 }
